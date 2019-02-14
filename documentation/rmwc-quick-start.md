@@ -1,6 +1,7 @@
 ---
-title: 'Quick Start for RMWC'
-slug: 'quick-start-rmwc'
+title: Quick Start for RMWC222
+date: '2019-02-14 12:00am'
+image: /images/fire_stop.png
 ---
 
 # Quick Start
