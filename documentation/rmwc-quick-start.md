@@ -3,8 +3,7 @@ title: Quick Start for RMWC222
 date: '2019-02-14 12:00am'
 image: /images/fire_stop.png
 ---
-
-# Quick Start
+# Quick Start or so they say....
 
 ```javascript
 import React from 'react';
@@ -19,8 +18,6 @@ const HelloWorld = props => <Button>Easy</Button>
 
 ## Project Methodology
 
-- To create the thinnest, lightest, and spec compliant wrapper around [Google Material Design Components for the Web][1]
-- To utilize the Foundation javascript classes and expose their api for consumption
-- To be as unobtrusive and sensible as possible.
-
-[1]: https://material.io/components/web/
+* To create the thinnest, lightest, and spec compliant wrapper around [Google Material Design Components for the Web](https://material.io/components/web/)
+* To utilize the Foundation javascript classes and expose their api for consumption
+* To be as unobtrusive and sensible as possible.
